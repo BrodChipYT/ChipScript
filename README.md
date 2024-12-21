@@ -1,4 +1,9 @@
-# ChipScript
-A simple and easy coding language created by Zyrenix Technology
+# VERSON 0.0.1
+1. added basic code functions
+2. added functionality to the language
 
-THIS LANGUAGE IS NOT PAID. IF A PERSON OR ORGANIZATION CLAIMS TO SELL THIS EXTENSION FOR MONEY OR CLAIM IT AS THEIR OWN, DO NOT FALL FOR THAT. THIS IS A FREE LANGUAGE
+# VERSON 0.0.2
+1. minor changes and bug fixes
+
+# VERSON 0.0.3
+1. minor changes and bug fixes
