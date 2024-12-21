@@ -7,3 +7,6 @@
 
 # VERSON 0.0.3
 1. minor changes and bug fixes
+
+# VERSION 0.0.4
+1. bug fixes and new syntax
